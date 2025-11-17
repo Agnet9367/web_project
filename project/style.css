@@ -37,3 +37,8 @@ img {
     width: 25%;
     height: auto;
 }
+
+ul {
+    margin-left: 50px;
+    padding-left: 0;
+}
