@@ -32,3 +32,8 @@ img {
     padding-left: 0;
     margin: 10px;
 }
+
+.small {
+    width: 25%;
+    height: auto;
+}
